@@ -1,3 +1,9 @@
 {
-  "version": "0.0.0"
+  "versions": {
+      "android": "0.0.0",
+      "ios": "unsupported",
+      "macos": "unsupported",
+      "windows": "0.0.0",
+      "linux": "0.0.0"
+  }
 }
